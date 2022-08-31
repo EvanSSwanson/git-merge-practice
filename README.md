@@ -1,1 +1,1 @@
-# git-merge-practice
+# partner2 changed text here
