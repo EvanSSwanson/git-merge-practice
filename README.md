@@ -1,3 +1,1 @@
-# git-merge-practice
-
-Cool extra line of text
+# partner A change
