@@ -1,1 +1,1 @@
-# partner2 changed text here
+# partner A change
